@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-Navod Wijesooriya/main/social/repo-header-image.png"> </div>
+![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
 <h1 align="center">Hi 👋, I'm Navod Wijesooriya</h1>
 <h3 align="center">Under gradute</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
