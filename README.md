@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **My Portfolio**
-
 - 👨‍💻 All of my projects are available at [https://github.com/NavodWijesooriya?tab=repositories](https://github.com/NavodWijesooriya?tab=repositories)
 
 - 📫 How to reach me **navotwijesooriya@gmil.com**
