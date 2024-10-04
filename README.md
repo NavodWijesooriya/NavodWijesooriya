@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Navod Wijesooriya">
 <h1 align="center">Hi 👋, I'm Navod Wijesooriya</h1>
 <h3 align="center">Under gradute</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
