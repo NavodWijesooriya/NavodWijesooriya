@@ -2,9 +2,7 @@
 
 
 
-
-
-
+Hi there 👋. Navod Wijesooriya, a skilled react developer
 
 
 
