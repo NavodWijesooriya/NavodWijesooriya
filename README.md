@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
+# Hi, I'm Navod Wijesooriya 👋🏾 👩🏾‍💻
 
-
-Hi there 👋. Navod Wijesooriya, a skilled react developer
 
 
 
