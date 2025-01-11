@@ -21,7 +21,8 @@ I specialize in building scalable web applications and exploring cutting-edge te
 ## 🛠️ Technologies & Tools  
 | **Languages**        | **Frameworks/Libraries** | **Database**       | **DevOps Tools** | **Other Tools**     |
 |-----------------------|--------------------------|--------------------|------------------|---------------------|
-| JavaScript, PHP, HTML, CSS | React, Next.js, Laravel   | Firebase Firestore | Docker, GitHub Actions | NetBeans, Ubuntu 22 (Wayland) |  
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  | ![NetBeans](https://img.shields.io/badge/-NetBeans-0082C6?style=flat-square&logo=apache-netbeans&logoColor=white)  |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  |                    | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  |
 
 ---
 
@@ -76,7 +77,6 @@ Hosting scalable applications on a Hostinger VPS using Docker.
 ---
 
 ### 📊 GitHub Stats  
-
 ![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
