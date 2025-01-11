@@ -1,27 +1,46 @@
+# Welcome to My GitHub Profile! 👋
 
-<h1 align="center">Hi 👋, I'm Navod Wijesooriya</h1>
-<h3 align="center">A frontend developer</h3>
+## About Me  
+Hi, I'm [Your Name] (alias: [YourUsername]), a passionate developer and tech enthusiast! 🚀 I am currently working on building scalable web applications and exploring cutting-edge technologies.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navodwijesooriya&label=Profile%20views&color=0e75b6&style=flat" alt="navodwijesooriya" /> </p>
+### 👩‍💻 Areas of Interest:
+- **Full-Stack Development**: Proficient in React, Next.js, Laravel, and Firebase.
+- **Mobile Optimization**: Ensuring seamless user experiences across devices.
+- **Cloud & DevOps**: Hosting apps on VPS using Docker, integrating CI/CD pipelines with GitHub Actions.
+- **Frontend Styling**: Expertise in Tailwind CSS for modern UI designs.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navodwijesooriya" alt="navodwijesooriya" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🔧 Technologies & Tools  
+- **Languages**: JavaScript, PHP, HTML, CSS  
+- **Frameworks & Libraries**: React, Next.js, Laravel  
+- **Database**: Firebase Firestore  
+- **DevOps Tools**: Docker, GitHub Actions  
+- **Other Tools**: NetBeans, AMD Radeon (Wayland on Ubuntu 22)  
 
-- 🔭 I’m currently working on freidea pos **freidea pos**
+---
 
-- 🌱 I’m currently learning next js **Next js**
+## 🚀 Current Projects  
+- **[Jagath Travels](https://jagathtravels.com)**: A travel booking platform with an admin panel, built using Next.js, Tailwind CSS, and Firebase.  
+- **GitHub Actions CI/CD Pipeline**: Automating the deployment of my Next.js apps.  
+- **Docker Hosting**: Hosting scalable apps on a Hostinger VPS.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/navod-wijesooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod-wijesooriya" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌱 What I’m Learning  
+- Firebase integration and authentication for dynamic applications.  
+- Advanced email functionality for customer interactions.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navodwijesooriya&show_icons=true&locale=en&layout=compact" alt="navodwijesooriya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navodwijesooriya&show_icons=true&locale=en" alt="navodwijesooriya" /></p>
+## 📫 Let's Connect!  
+- **Website**: [jagathtravels.com](https://jagathtravels.com)  
+- **Email**: info@jagathtravels.com  
+- **GitHub**: [YourUsername](https://github.com/YourUsername)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navodwijesooriya&" alt="navodwijesooriya" /></p>
+Feel free to explore my repositories, raise issues, or even collaborate on exciting projects! Together, let's build amazing things. 🚀  
+
+---
+
+### ⭐ Fun Fact  
+"Every line of code you write is a step toward creating something extraordinary!"
