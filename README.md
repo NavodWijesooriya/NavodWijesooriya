@@ -76,9 +76,15 @@ Hosting scalable applications on a Hostinger VPS using Docker.
 
 ---
 
-### 📊 GitHub Stats  
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical)  
+## 📊 GitHub Stats  
+### 🎯 **Overall GitHub Contributions**  
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&theme=radical&hide_title=true)  
+
+### 📊 **Top Programming Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+
+### 🏆 **Most Contributed Repositories**  
+![Most Contributed Repositories](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourMostContributedRepo&theme=radical)
 
 ---
 
