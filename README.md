@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi there, I'm [Navod Wijesooriya]</h1>
 
 <p align="center">
   A passionate <b>Full Stack Web Developer</b> who loves building modern, performant, and user-focused web applications.
@@ -52,7 +52,7 @@
 
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:your-navodtwijesooriya@gmail.com)
 
 <p align="center">
   Thanks for visiting! 🚀 Let’s build something amazing together.
