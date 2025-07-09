@@ -1,85 +1,105 @@
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Navod+Wijesooriya;Full+Stack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Navod%20Wijesooriya&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=60)
 
-<p align="center">
-  <a href="https://portfolio.navodwijesooriya.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/navodwijesooriya">LinkedIn</a> •
-  <a href="mailto:hello@navodwijesooriya.com">Email</a>
-</p>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing Animation" />
+</h1>
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/navodw?style=social)
-  ![Visitors](https://komarev.com/ghpvc/?username=navodw&color=blueviolet&style=flat)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-38BCF7?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🔥 Current Stack
 
+### Frontend
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
-const navod = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express", "Firebase", "Payload CMS"],
-    database: ["MongoDB", "PostgreSQL", "Firestore"],
-    devOps: ["Docker", "GitHub Actions", "NGINX", "VPS"],
-    mobile: ["React Native"],
-    testing: ["Jest", "Cypress"]
-  },
-  architecture: ["Microservices", "Serverless", "Jamstack"],
-  currentFocus: "Building scalable web applications with Next.js",
-  funFact: "Can solve a Rubik's cube in under 2 minutes"
-};
-🛠 Tech Stack
-Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+### Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</div>
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
-https://img.shields.io/badge/Payload_CMS-2B2A29?style=for-the-badge&logo=payload&logoColor=white
+### DevOps & Tools
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
-Database
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+---
 
-📊 GitHub Stats
+## 🚧 Current Projects
+
+### 🔥 [E-Commerce Platform](https://github.com/yourusername/ecommerce)
+Next.js + Payload CMS + Stripe Integration  
+![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen)
+
+### 🚀 [Portfolio 3.0](https://github.com/yourusername/portfolio-v3)
+Three.js Animations + Contentful CMS  
+![Progress](https://img.shields.io/badge/Progress-60%25-yellow)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=navodw&show_icons=true&theme=radical&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=navodw&layout=compact&theme=radical&hide_border=true
-
-https://streak-stats.demolab.com?user=navodw&theme=radical&hide_border=true
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" />
 
 </div>
-🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=navodw&theme=onedark&row=1&margin-w=15
 
-📈 Recent Activity
-<!--START_SECTION:activity-->
-🎉 Merged PR [#42] in [navodw/ecommerce-platform]
+---
 
-🚀 Deployed new version of portfolio site
+## 🏷 Featured Repositories
 
-💻 Working on Next.js 14 migration for client project
+<div align="center">
+  
+  <a href="https://github.com/yourusername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/yourusername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
+  </a>
 
-📝 Wrote blog post about Payload CMS customization
+</div>
 
-<!--END_SECTION:activity-->
-📫 Let's Connect
-<p align="center"> <a href="https://portfolio.navodwijesooriya.com"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/> </a> <a href="https://linkedin.com/in/navodwijesooriya"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hello@navodwijesooriya.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/navodw"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> </p><div align="center">
-https://github.com/navodw/navodw/blob/output/github-contribution-grid-snake.svg
+---
 
-</div> ```
+## 🎯 2024 Goals
+
+- [x] Master Next.js 14 App Router
+- [ ] Release open-source component library
+- [ ] Learn WebAssembly basics
+- [ ] Contribute to 5+ OSS projects
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
+
+</div>
