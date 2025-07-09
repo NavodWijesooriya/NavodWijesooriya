@@ -11,7 +11,7 @@
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/-Portfolio-38BCF7?style=for-the-badge&logo=react&logoColor=white)](https://navodwijesooriya.me)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/navod-wijesooriya/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile))
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navodtwijesooriya@gmail.com)
 
