@@ -1,62 +1,85 @@
-<h1 align="center">👋 Hi there, I'm Navod Wijesooriya</h1>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Navod+Wijesooriya;Full+Stack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  A passionate <b>Full Stack Web Developer</b> who loves building modern, performant, and user-focused web applications.
+  <a href="https://portfolio.navodwijesooriya.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/navodwijesooriya">LinkedIn</a> •
+  <a href="mailto:hello@navodwijesooriya.com">Email</a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-- 🚀 Full-stack developer specializing in **React**, **Next.js**, and **Firebase**
-- 📦 Currently working on dynamic web applications using **Next.js**, **Payload CMS**, **MongoDB**, and **Docker**
-- 🧠 Constant learner — always exploring new technologies and best practices
-- 🌍 Comfortable deploying on **VPS**, working with **CI/CD**, and managing production-ready environments
-- 🧩 Passionate about clean code, UX, and scalable architecture
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Firebase%20%7C%20Payload-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
-
-<!-- Database -->
-<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL%20%7C%20SQLite-informational?style=flat&logo=mongodb&logoColor=white&color=47A248"/>
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions%20%7C%20NGINX-informational?style=flat&logo=docker&logoColor=white&color=2496ED"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Tools-Git%20%7C%20VS%20Code%20%7C%20Postman-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC"/>
+  
+  ![GitHub followers](https://img.shields.io/github/followers/navodw?style=social)
+  ![Visitors](https://komarev.com/ghpvc/?username=navodw&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="45%"/>
-</p>
 
----
+const navod = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Python"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
+    backend: ["Node.js", "Express", "Firebase", "Payload CMS"],
+    database: ["MongoDB", "PostgreSQL", "Firestore"],
+    devOps: ["Docker", "GitHub Actions", "NGINX", "VPS"],
+    mobile: ["React Native"],
+    testing: ["Jest", "Cypress"]
+  },
+  architecture: ["Microservices", "Serverless", "Jamstack"],
+  currentFocus: "Building scalable web applications with Next.js",
+  funFact: "Can solve a Rubik's cube in under 2 minutes"
+};
+🛠 Tech Stack
+Frontend
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 
-## 📫 Let's Connect
+Backend
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Payload_CMS-2B2A29?style=for-the-badge&logo=payload&logoColor=white
 
-<p align="center">
-  🌐 Portfolio: <a href="https://your-portfolio-link.com">your-portfolio-link.com</a><br/>
-  💼 LinkedIn: <a href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a><br/>
-  📧 Email: <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
+Database
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 
-<p align="center">
-  Thanks for visiting! 🚀 Let’s build something amazing together.
-</p>
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=navodw&show_icons=true&theme=radical&hide_border=true
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=navodw&layout=compact&theme=radical&hide_border=true
+
+https://streak-stats.demolab.com?user=navodw&theme=radical&hide_border=true
+
+</div>
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=navodw&theme=onedark&row=1&margin-w=15
+
+📈 Recent Activity
+<!--START_SECTION:activity-->
+🎉 Merged PR [#42] in [navodw/ecommerce-platform]
+
+🚀 Deployed new version of portfolio site
+
+💻 Working on Next.js 14 migration for client project
+
+📝 Wrote blog post about Payload CMS customization
+
+<!--END_SECTION:activity-->
+📫 Let's Connect
+<p align="center"> <a href="https://portfolio.navodwijesooriya.com"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/> </a> <a href="https://linkedin.com/in/navodwijesooriya"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hello@navodwijesooriya.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/navodw"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> </p><div align="center">
+https://github.com/navodw/navodw/blob/output/github-contribution-grid-snake.svg
+
+</div> ```
