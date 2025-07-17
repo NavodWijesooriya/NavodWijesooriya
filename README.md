@@ -10,13 +10,21 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-38BCF7?style=for-the-badge&logo=react&logoColor=white)](https://navodwijesooriya.me)
+<p align="center">
+  <a href="https://navodwijesooriya.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-38BCF7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/navod-wijesooriya/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/NavodWijesoriya" target="_blank">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:navodtwijesooriya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navod-wijesooriya/)
-
-[![Twitter / X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NavodWijesoriya)
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navodtwijesooriya@gmail.com)
 
 
 </div>
